@@ -43,6 +43,9 @@ With the "real" purchase event unreachable, the account had no success signal to
 ## Demo / Screenshots
 
 📊 Monthly reporting dashboards: March 2026 and April 2026 (catering campaign performance, funnel events, device/day-of-week breakdowns)
+📊 [March 2026 Dashboard](./Hoboken_Pie%20Google%20Ads%20March%202026.pdf)
+📊 [April 2026 Dashboard](./Hoboken_Pie_Dashboard%20Google%20Ads%20April%202026.pdf)
+
 
 > *Dashboards include: conversion trend, cost-per-conversion, search term/keyword performance, device split, day-of-week performance, and the GA4 event funnel (menu scroll, menu view, checkout begin).*
 
